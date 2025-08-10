@@ -1,4 +1,3 @@
-# Data Science Midterm Project
 
 ## Project/Goals
 The objective of this project is to explore the steps it takes to take data, transform it, and build a machine learning pipeline from it. We will be using historical housing data. We will go through the steps of preproccessing, performing exploratory data analysis, selecting three models to compare and contrast, and finally, complete some hyperparameter tuning. 
